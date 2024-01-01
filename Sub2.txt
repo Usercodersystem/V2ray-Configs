@@ -1,3 +1,7 @@
+trojan://176ac91d-44a9-4772-9b09-6592ae8dc87a@ua-full.privateip.net:443#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine%20Trojan%20@V2rayStore
+trojan://bcbff2ff-df7c-427f-a477-b3ebe6d2fbc7@sg-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://71a12f40-d987-4221-9f7d-6c39cd33f880@sg2-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
+trojan://545eb693-6e9d-4e17-becd-ac21747a63c1@sg3-full.privateip.net:443#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20Trojan%20@V2rayStore
 trojan://3c84d547-d058-48ef-8fd9-f9215cfbcbba@hk-full.privateip.net:443#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20Trojan%20@V2rayStore
 trojan://8be6e2ad-a580-4ddd-9051-aaab4a2473c1@nl-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://ef51ed2c-369e-48b3-9a6a-0bea6b9dc8fd@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
@@ -994,7 +998,3 @@ trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls&sni=z-v1-zzzh.ashx.
 trojan://pjdnqv@15.181.201.80:443/?type=tcp&security=tls&sni=aws-us-dallas-1.f1rocketnode.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20391
 trojan://telegram-id-directvpn@54.73.30.174:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%203
 trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download2hkt.windowsupdatea.com:443/?type=tcp&security=tls&sni=glc-hkt2.windowsupdatea.com#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2016
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@tw02.trojanyyds.xyz:443/?type=tcp&security=tls&sni=tw02.trojanyyds.xyz#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2017
-trojan://xxoo@138.197.5.103:443/?type=tcp&security=tls&sni=telewebion.com#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%20392
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk02.trojanyyds.xyz:443/?type=tcp&security=tls#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2018
-trojan://mothai3456789080898@103.166.185.11:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com#Vietnam%2039
