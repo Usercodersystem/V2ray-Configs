@@ -995,6 +995,6 @@ vless://7d3b945d-0f23-4719-9fae-50033251e2fd@www.speedtest.net:443?sni=qwhtnnrgo
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@mci.tahermollaei.pw:443?sni=5tut117qc2g6nrc19j56.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  11
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cloudflare.quest:443?sni=cndb9wjin2i7vab5vvcg.khodavakili.top&host=dl.khodavakili.top&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  12
 vless://7d3b945d-0f23-4719-9fae-50033251e2fd@cm.db-link.in:443?sni=0xjwju9wgnxxb7x6ck59.khodavakili.buzz&host=dl.khodavakili.buzz&type=ws&security=tls&path=%2Fkos_madar_publisher&encryption=none#server  13
-vless://e57e2f03-01c3-4f27-8803-2e35145373b2@0733.outline-vpn.cloud:80?path=%2Fbackup&security=none&encryption=none&host=FgauEf.aMOoZEsHgAH-Pc.cOm&type=ws#FW+72+ID%28%40Outline_Vpn%29
-vless://e4a52f75-474e-449e-bcd2-05ea177f1403@vcv-join.outline-vpn.cloud:80?path=%2F&security=none&encryption=none&host=59.%E7%BB%B4%E5%AD%90%E8%B6%B3%E7%90%8319.tech&type=ws#KJ+57+ID%28%40Outline_Vpn%29
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@port80----join.outline-vpn.cloud:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws#Galaxy+31+ID%28%40Outline_Vpn%29
+vless://89420825-e589-4735-bee1-6dc636fca343@w3.sylarsun.eu.org:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=w3.sylarsun.eu.org&type=ws&sni=w3.sylarsun.eu.org#YAS+51+ID%28%40Outline_Vpn%29
+vmess://eyJhZGQiOiJuaW5hLmJvbmQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5pbmEuYm9uZCIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJSUiA5MCBJRChAT3V0bGluZV9WcG4pIiwic2N5IjoiYXV0byIsInNuaSI6Im5pbmEuYm9uZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#%F0%9F%9F%A3+Telegram+ID%28%40Outline_Vpn%29
