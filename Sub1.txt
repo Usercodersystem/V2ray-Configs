@@ -893,7 +893,6 @@ trojan://fd807087-ffdd-4782-a4d1-b2e3d8c82eec@id-full.privateip.net:443#%F0%9F%8
 trojan://b6961fb7-2ada-4e48-af71-c47fe3513314@nl2-full.privateip.net:443#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20Trojan%20@V2rayStore
 trojan://a51ec3ca-09a3-4fa0-9fff-96feede0066f@ca2-full.privateip.net:443#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20Trojan%20@V2rayStore
 trojan://7c7f8739-09fc-49da-a97f-1d2e92314cf6@in-full.privateip.net:443#%F0%9F%87%AE%F0%9F%87%B3%20India%20Trojan%20@V2rayStore
-trojan://ae31f892-733f-44d5-b581-c514972aa7c2@jp-full.privateip.net:443#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20Trojan%20@V2rayStore
 trojan://540da65e-99d0-49ab-9d4d-722f5ff637a1@fr2-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 trojan://fc1e07b5-840b-4446-8232-94b0606f2e0d@fr3-full.privateip.net:443#%F0%9F%87%AB%F0%9F%87%B7%20France%20Trojan%20@V2rayStore
 vless://fa0adfd3-268b-4bac-a00d-eee1b253acea@us-full.privateip.net:443?type=ws&encryption=none&security=tls&path=%2fVLESS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20Vless%20WS%20@V2rayStore
@@ -998,3 +997,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.175:8090#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%207
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@145.239.1.100:8118#%F0%9F%87%AB%F0%9F%87%B7%20France%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsM0pFcnZIek1JTEtOSXpXSXVCazky@193.238.153.21:38222#%F0%9F%87%AC%F0%9F%87%A7%20Ukraine
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@167.88.61.175:8008#%F0%9F%87%BA%F0%9F%87%B2%20United%20States%208
