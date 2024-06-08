@@ -1,4 +1,3 @@
-vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?alpn=http%2F1.1&encryption=none&host=LB2.family2036.com&security=tls&sni=LB2.family2036.com&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣2️⃣
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?alpn=http%2F1.1&encryption=none&host=LB8.family2036.com&security=tls&sni=LB8.family2036.com&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣3️⃣
 vless://af309ad2-c943-48ea-b570-2e51a2f079d9@LF1.mosiobest.com:80?encryption=none&path=%2FDSDaswd22%2111%2Afdfm55247.COM.&security=none&type=ws#رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣
 vless://2a3263e2-891c-4446-b474-a8c63acb6e25@cloud.kinononva.top:2096?alpn=http%2F1.1&encryption=none&host=LB5.family2036.com&security=tls&sni=LB5.family2036.com&type=ws#رایگان | VLESS | @DailyV2RY | SE🇸🇪 | 0️⃣5️⃣
